@@ -1,0 +1,20 @@
+$titoliPrincipali: #66cc66;
+$bgTitoliPrincipali: #447194;
+$bottoniConferma: #441123;
+$bottoniAnnulla:#913232;
+
+h1, h2{
+    color: $titoliPrincipali;
+    background-color: $bgTitoliPrincipali;
+}
+.conferma{
+    color: $titoliPrincipali;
+    background-color: $bottoniAnnulla;
+}
+.annulla{
+    color: $bottoniAnnulla;
+    background-color: $bottoniConferma;
+}
+p{
+    color: $bgTitoliPrincipali;
+}

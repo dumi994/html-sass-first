@@ -1,0 +1,18 @@
+h1, h2 {
+  color: #66cc66;
+  background-color: #447194;
+}
+
+.conferma {
+  color: #66cc66;
+  background-color: #913232;
+}
+
+.annulla {
+  color: #913232;
+  background-color: #441123;
+}
+
+p {
+  color: #447194;
+}
